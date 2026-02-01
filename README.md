@@ -18,4 +18,4 @@
 
 ## Публикация проекта
 Проект опубликован с помощью GitHub Pages и доступен по ссылке:  
-https://drfun1990.github.io/Home-work--2/
+https://drfun1990.github.io/Home-work--2/git
