@@ -2,7 +2,36 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    background: #f2f2f2;
 }/* Базовый сброс */
+
 * {
   box-sizing: border-box;
+}
+
+/* ВЕСЬ БЛОК */
+.box {
+  /* CONTENT */
+  width: 3000px;
+  background-color: rgb(196, 4, 4);
+
+  /* PADDING — внутренний отступ */
+  padding: 10px;
+
+  /* BORDER — рамка */
+  border: 5px solid black;
+
+  /* MARGIN — внешний отступ */
+  margin: 20px;
+
+  font-size: 16px;
+}
+.full-width {
+  background: red;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
 }
